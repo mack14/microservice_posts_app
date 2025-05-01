@@ -1,0 +1,3 @@
+[submodule "client"]
+	path = client
+	url = git@github.com:mack14/microservice_posts_app_client.git
