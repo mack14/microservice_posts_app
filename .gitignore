@@ -12,7 +12,6 @@
 .DS_Store
 Thumbs.db
 
-# Optional environment variables
 **/.env
 
 # Build output (for Node.js + React.js services)
